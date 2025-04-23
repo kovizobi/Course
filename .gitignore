@@ -1,0 +1,7 @@
+.env
+community_areas_master.csv
+company_master.csv
+date_dimension.csv
+payment_type_master.csv
+trips_full.csv
+weather_data_date.csv
